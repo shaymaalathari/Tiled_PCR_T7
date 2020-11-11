@@ -1,0 +1,21 @@
+{
+  "title": “?”,
+  "basecalledPath": "fastq/pass",
+  "samples": [
+    {
+      "name": “ISKNV”,
+      "description": "",
+      "barcodes": [ "NB01" ]
+    },
+    {
+      "name": “T7”,
+      "description": "",
+      "barcodes": [ "NB03" ]
+    },
+    {
+      "name": "Negative Control",
+      "description": "",
+      "barcodes": [ "NB02" ]
+    }
+  ]
+}
