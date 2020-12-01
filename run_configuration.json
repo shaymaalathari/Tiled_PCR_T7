@@ -1,21 +1,21 @@
 {
-  "title": “?”,
+  "title": “Users/shaymaalathari/ISKNV_T7_MinION/first_run”,
   "basecalledPath": "fastq/pass",
   "samples": [
     {
       "name": “ISKNV”,
       "description": "",
-      "barcodes": [ "NB01" ]
+      "barcodes": [ "NB07" ]
     },
     {
       "name": “T7”,
       "description": "",
-      "barcodes": [ "NB03" ]
+      "barcodes": [ "NB05" ]
     },
     {
       "name": "Negative Control",
       "description": "",
-      "barcodes": [ "NB02" ]
+      "barcodes": [ "NB06" ]
     }
   ]
 }
