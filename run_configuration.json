@@ -1,6 +1,6 @@
 {
-  "title": “Users/shaymaalathari/ISKNV_T7_MinION/first_run”,
-  "basecalledPath": "fastq/pass",
+  "title": “ISKNV_T7_MinION”,
+  "basecalledPath": "Users/shaymaalathari/ISKNV_T7_MinION/first_run",
   "samples": [
     {
       "name": “ISKNV”,
