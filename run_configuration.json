@@ -1,21 +1,11 @@
 {
-  "title": “ISKNV_T7_MinION”,
-  "basecalledPath": "Users/shaymaalathari/ISKNV_T7_MinION/first_run",
+  "title": "T7 first run",
+  "basecalledPath": "/Users/shaymaalathari/rampart/ISKNV_T7_MinION/first_run",
   "samples": [
     {
-      "name": “ISKNV”,
-      "description": "",
-      "barcodes": [ "NB07" ]
-    },
-    {
-      "name": “T7”,
+      "name": "T7",
       "description": "",
       "barcodes": [ "NB05" ]
-    },
-    {
-      "name": "Negative Control",
-      "description": "",
-      "barcodes": [ "NB06" ]
     }
   ]
 }
