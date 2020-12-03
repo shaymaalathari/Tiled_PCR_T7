@@ -1,5 +1,5 @@
 {
-	"label": “T7 bacteriophage (T7)”,
+	"label": "T7 bacteriophage (T7)",
 	"length": 39937,
 	"genes": {
 			"start": 1,
@@ -8,8 +8,8 @@
 		}
 	},
 	"reference": { 
-		"label": “Enterobacteria phage T7, complete genome”,
-		"accession": “NC_001604.1”,
+		"label": "Enterobacteria phage T7, complete genome",
+		"accession": "NC_001604.1",
 		"sequence": 
 "TCTCACAGTGTACGGACCTAAAGTTCCCCCATAGGGGGTACCTAAAGCCCAGCCAATCACCTAAAGTCAA
 CCTTCGGTTGACCTTGAGGGTTCCCTAAGGGTTGGGGATGACCCTTGGGTTTGTCTTTGGGTGTTACCTT
