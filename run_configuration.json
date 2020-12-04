@@ -1,11 +1,11 @@
 {
-  "title": "T7 first run",
-  "basecalledPath": "/Users/shaymaalathari/rampart/ISKNV_T7_MinION/first_run",
+  "title": "T7 Test",
+  "basecalledPath": "/Users/shaymaalathari/ISKNV_T7_MinION/first_run",
   "samples": [
     {
       "name": "T7",
-      "description": "",
-      "barcodes": [ "NB05" ]
+      "description": "2kb fragments",
+      "barcodes": [ "barcode05" ]
     }
   ]
 }
