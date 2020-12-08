@@ -1,5 +1,10 @@
 {
-  "name": "ARTIC T7 Virus protocol",
+  "name": "Shayma Alathari Artic T7 protocol v1.0",
   "description": "Amplicon based sequencing of T7.",
-  "url": "http://artic.network/"
+  "url": "http://artic.network/",
+  "displayOptions": {
+    "coverageThresholds": {
+      ">200x": 200, ">100x": 100, ">20x": 20, "0x": 0
+    }
+  }
 }
